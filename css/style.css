@@ -1,0 +1,67 @@
+.top {
+  height: 200px;
+  background-color: rgb(170, 168, 168);
+}
+
+.title__h2 {
+  margin-left: 20px;
+}
+
+.title__menu{
+  display: flex;
+  justify-content: space-between;
+  color: rgb(7, 7, 153);
+  margin-right: 20px;
+}
+
+ul li {
+  display: inline-block;
+  padding: 5px;
+}
+a {
+  list-style: none;
+  text-decoration: none;
+  color: rgb(7, 7, 153)
+}
+
+p {
+  font-size: 50px;
+  margin-bottom: 0;
+}
+
+.square {
+  background-color: rgb(7, 7, 153);
+  height: 150px;
+  width: 1000px;
+}
+
+.relative {
+  position:relative;
+  margin-top: 20px;
+  height: 500px;
+}
+
+.absolute__p__div {
+  position:absolute;
+  top: 200px;
+  left: 0%;
+}
+
+.absolute__img{
+  width: 500px;
+  display: block;
+  position:absolute;
+  top: 50px;
+  right:0px;
+}
+
+.under {
+  height: 500px;
+  background-color: rgb(170, 168, 168);
+}
+
+body {
+  margin: 0;
+}
+
+
