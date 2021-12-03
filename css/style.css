@@ -1,9 +1,8 @@
-
 .title__h2 {
   margin-left: 20px;
 }
 
-.title__menu{
+.title__menu {
   display: flex;
   justify-content: space-between;
   color: rgb(7, 7, 153);
@@ -17,7 +16,7 @@ ul li {
 a {
   list-style: none;
   text-decoration: none;
-  color: rgb(7, 7, 153)
+  color: rgb(7, 7, 153);
 }
 
 p {
@@ -32,20 +31,20 @@ p {
 }
 
 .relative {
-  position:relative;
+  position: relative;
   margin-top: 20%;
   height: 500px;
 }
 
 .absolute__p__div {
-  position:absolute;
+  position: absolute;
   top: 0%;
   left: 0%;
 }
 
-.absolute__img{
+.absolute__img {
   width: 50%;
-  position:absolute;
+  position: absolute;
   top: -40%;
   right: 0%;
 }
@@ -53,5 +52,3 @@ p {
 body {
   margin: 0;
 }
-
-
