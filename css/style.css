@@ -1,4 +1,4 @@
-.title__h2 {
+.title__h1 {
   margin-left: 20px;
 }
 
@@ -7,6 +7,7 @@
   justify-content: space-between;
   color: rgb(7, 7, 153);
   margin-right: 20px;
+  margin-top : 10px;
 }
 
 ul li {
@@ -21,9 +22,8 @@ a {
 
 p {
   font-size: 50px;
-  position:absolute;
-  top: 48%;
-
+  position: absolute;
+  top: 55%;
 }
 
 .square {
@@ -39,7 +39,6 @@ p {
   position: absolute;
   top: 20%;
   right: 0%;
-
 }
 
 body {
