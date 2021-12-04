@@ -21,32 +21,25 @@ a {
 
 p {
   font-size: 50px;
-  margin-bottom: 0;
+  position:absolute;
+  top: 48%;
+
 }
 
 .square {
   background-color: rgb(7, 7, 153);
   height: 150px;
   width: 1000px;
-}
-
-.relative {
-  position: relative;
-  margin-top: 20%;
-  height: 500px;
-}
-
-.absolute__p__div {
   position: absolute;
-  top: 0%;
-  left: 0%;
+  top: 60%;
 }
 
 .absolute__img {
   width: 50%;
   position: absolute;
-  top: -40%;
+  top: 20%;
   right: 0%;
+
 }
 
 body {
